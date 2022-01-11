@@ -1,0 +1,3 @@
+This is an awesome file i added directly from GitHub.com
+This is not something we will do it normaly  
+we are  just trying to simulate a situation where romote repository history is ahead of local repository history
